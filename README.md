@@ -1,0 +1,19 @@
+
+# random-messages
+
+Paquete de Frases random
+
+## Install
+
+```npm
+npm install -g versos
+```
+
+# Usage
+
+```bash
+random-msg
+```
+
+# License
+versos is released under the [MIT License](https://opensource.org/licenses/MIT).
